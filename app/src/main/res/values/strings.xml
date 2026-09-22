@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">PrintXpress</string>
+    <string name="guidelines">• Accepted formats: PDF (preferred), AI, PSD, PNG, JPG\n• Resolution: minimum 300 DPI at final print size\n• Colour mode: CMYK for print (RGB colours may shift)\n• Bleed: add 3 mm bleed on every edge\n• Safe zone: keep text and logos 5 mm inside the trim line\n• Fonts: outline or embed all fonts\n• Black text: use 100% K, not rich black\n• Maximum upload size: 25 MB</string>
+</resources>
